@@ -1,0 +1,21 @@
+.container{
+    border: tomato solid 5px
+}
+
+.kotak {
+    height: 20rem;
+    width: 20rem;
+    margin:1.2rem;
+  }
+  .icon {
+    padding-top: 15px;
+    font-size: 80px;
+  }
+  .value{
+    font-size: 30px;
+  }
+  .pencarian{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+  }
